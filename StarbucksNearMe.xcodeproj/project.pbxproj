@@ -1,0 +1,567 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4942BFDC26AF4440007216BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4942BFDB26AF4440007216BF /* AppDelegate.swift */; };
+		4942BFDE26AF4440007216BF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4942BFDD26AF4440007216BF /* SceneDelegate.swift */; };
+		4942BFE026AF4440007216BF /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4942BFDF26AF4440007216BF /* HomeController.swift */; };
+		4942BFE326AF4440007216BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4942BFE126AF4440007216BF /* Main.storyboard */; };
+		4942BFE526AF4442007216BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4942BFE426AF4442007216BF /* Assets.xcassets */; };
+		4942BFE826AF4442007216BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4942BFE626AF4442007216BF /* LaunchScreen.storyboard */; };
+		4942BFF326AF4443007216BF /* StarbucksNearMeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4942BFF226AF4443007216BF /* StarbucksNearMeTests.swift */; };
+		4942BFFE26AF49D0007216BF /* LocationListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4942BFFD26AF49D0007216BF /* LocationListViewController.swift */; };
+		4942C00026AF5597007216BF /* LocationDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4942BFFF26AF5597007216BF /* LocationDataManager.swift */; };
+		4942C00426AF7320007216BF /* GoogleMapsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4942C00326AF7320007216BF /* GoogleMapsService.swift */; };
+		49D918EE26B06A6700A28AD8 /* LocationDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D918ED26B06A6700A28AD8 /* LocationDetailViewController.swift */; };
+		49D918F126B06E8600A28AD8 /* AppCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D918F026B06E8600A28AD8 /* AppCore.swift */; };
+		49D918F426B070BD00A28AD8 /* LocationSearchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D918F326B070BD00A28AD8 /* LocationSearchService.swift */; };
+		49D918F626B078E100A28AD8 /* StarbucksLocationDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D918F526B078E100A28AD8 /* StarbucksLocationDataManager.swift */; };
+		49D918F826B0792F00A28AD8 /* LocationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D918F726B0792F00A28AD8 /* LocationProvider.swift */; };
+		49D918FA26B0794900A28AD8 /* DeviceLocationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D918F926B0794900A28AD8 /* DeviceLocationProvider.swift */; };
+		49D918FC26B0840200A28AD8 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D918FB26B0840200A28AD8 /* Location.swift */; };
+		49D9190126B107A000A28AD8 /* CLLocationCoordinate2D+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D9190026B107A000A28AD8 /* CLLocationCoordinate2D+String.swift */; };
+		49D9190426B10A3700A28AD8 /* LocationList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D9190326B10A3700A28AD8 /* LocationList.swift */; };
+		49D9190626B1135300A28AD8 /* ValidSample.json in Resources */ = {isa = PBXBuildFile; fileRef = 49D9190526B1135200A28AD8 /* ValidSample.json */; };
+		49D9190826B1137400A28AD8 /* InvalidSample.json in Resources */ = {isa = PBXBuildFile; fileRef = 49D9190726B1137400A28AD8 /* InvalidSample.json */; };
+		49D9194626B1940100A28AD8 /* MockLocationProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49D9194526B1940100A28AD8 /* MockLocationProvider.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4942BFEF26AF4443007216BF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4942BFD026AF4440007216BF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4942BFD726AF4440007216BF;
+			remoteInfo = StarbucksNearMe;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4942BFD826AF4440007216BF /* StarbucksNearMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StarbucksNearMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4942BFDB26AF4440007216BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4942BFDD26AF4440007216BF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		4942BFDF26AF4440007216BF /* HomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = "<group>"; };
+		4942BFE226AF4440007216BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4942BFE426AF4442007216BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4942BFE726AF4442007216BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4942BFE926AF4442007216BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4942BFEE26AF4443007216BF /* StarbucksNearMeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StarbucksNearMeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4942BFF226AF4443007216BF /* StarbucksNearMeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarbucksNearMeTests.swift; sourceTree = "<group>"; };
+		4942BFF426AF4443007216BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4942BFFD26AF49D0007216BF /* LocationListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationListViewController.swift; sourceTree = "<group>"; };
+		4942BFFF26AF5597007216BF /* LocationDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDataManager.swift; sourceTree = "<group>"; };
+		4942C00326AF7320007216BF /* GoogleMapsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleMapsService.swift; sourceTree = "<group>"; };
+		49D918ED26B06A6700A28AD8 /* LocationDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailViewController.swift; sourceTree = "<group>"; };
+		49D918F026B06E8600A28AD8 /* AppCore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCore.swift; sourceTree = "<group>"; };
+		49D918F326B070BD00A28AD8 /* LocationSearchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchService.swift; sourceTree = "<group>"; };
+		49D918F526B078E100A28AD8 /* StarbucksLocationDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarbucksLocationDataManager.swift; sourceTree = "<group>"; };
+		49D918F726B0792F00A28AD8 /* LocationProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationProvider.swift; sourceTree = "<group>"; };
+		49D918F926B0794900A28AD8 /* DeviceLocationProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceLocationProvider.swift; sourceTree = "<group>"; };
+		49D918FB26B0840200A28AD8 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
+		49D9190026B107A000A28AD8 /* CLLocationCoordinate2D+String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CLLocationCoordinate2D+String.swift"; sourceTree = "<group>"; };
+		49D9190326B10A3700A28AD8 /* LocationList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationList.swift; sourceTree = "<group>"; };
+		49D9190526B1135200A28AD8 /* ValidSample.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ValidSample.json; sourceTree = "<group>"; };
+		49D9190726B1137400A28AD8 /* InvalidSample.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = InvalidSample.json; sourceTree = "<group>"; };
+		49D9194526B1940100A28AD8 /* MockLocationProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockLocationProvider.swift; sourceTree = "<group>"; };
+		49D9194726B19C5500A28AD8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4942BFD526AF4440007216BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4942BFEB26AF4443007216BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4942BFCF26AF4440007216BF = {
+			isa = PBXGroup;
+			children = (
+				4942BFDA26AF4440007216BF /* StarbucksNearMe */,
+				4942BFF126AF4443007216BF /* StarbucksNearMeTests */,
+				4942BFD926AF4440007216BF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4942BFD926AF4440007216BF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4942BFD826AF4440007216BF /* StarbucksNearMe.app */,
+				4942BFEE26AF4443007216BF /* StarbucksNearMeTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4942BFDA26AF4440007216BF /* StarbucksNearMe */ = {
+			isa = PBXGroup;
+			children = (
+				49D918F226B06E9500A28AD8 /* App */,
+				49D918EF26B06A7300A28AD8 /* Controllers */,
+				49D9190226B107BD00A28AD8 /* Helpers */,
+				49D918FF26B1077A00A28AD8 /* Models */,
+				4942BFDB26AF4440007216BF /* AppDelegate.swift */,
+				4942BFDD26AF4440007216BF /* SceneDelegate.swift */,
+				4942BFE126AF4440007216BF /* Main.storyboard */,
+				4942BFE626AF4442007216BF /* LaunchScreen.storyboard */,
+				4942BFE426AF4442007216BF /* Assets.xcassets */,
+				4942BFE926AF4442007216BF /* Info.plist */,
+				49D9194726B19C5500A28AD8 /* README.md */,
+			);
+			path = StarbucksNearMe;
+			sourceTree = "<group>";
+		};
+		4942BFF126AF4443007216BF /* StarbucksNearMeTests */ = {
+			isa = PBXGroup;
+			children = (
+				4942BFF226AF4443007216BF /* StarbucksNearMeTests.swift */,
+				4942BFF426AF4443007216BF /* Info.plist */,
+				49D9190526B1135200A28AD8 /* ValidSample.json */,
+				49D9190726B1137400A28AD8 /* InvalidSample.json */,
+				49D9194526B1940100A28AD8 /* MockLocationProvider.swift */,
+			);
+			path = StarbucksNearMeTests;
+			sourceTree = "<group>";
+		};
+		49D918EF26B06A7300A28AD8 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				4942BFDF26AF4440007216BF /* HomeController.swift */,
+				4942BFFD26AF49D0007216BF /* LocationListViewController.swift */,
+				49D918ED26B06A6700A28AD8 /* LocationDetailViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		49D918F226B06E9500A28AD8 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				49D918F026B06E8600A28AD8 /* AppCore.swift */,
+				4942BFFF26AF5597007216BF /* LocationDataManager.swift */,
+				49D918F526B078E100A28AD8 /* StarbucksLocationDataManager.swift */,
+				49D918F726B0792F00A28AD8 /* LocationProvider.swift */,
+				49D918F926B0794900A28AD8 /* DeviceLocationProvider.swift */,
+				49D918F326B070BD00A28AD8 /* LocationSearchService.swift */,
+				4942C00326AF7320007216BF /* GoogleMapsService.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		49D918FF26B1077A00A28AD8 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				49D918FB26B0840200A28AD8 /* Location.swift */,
+				49D9190326B10A3700A28AD8 /* LocationList.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		49D9190226B107BD00A28AD8 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				49D9190026B107A000A28AD8 /* CLLocationCoordinate2D+String.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4942BFD726AF4440007216BF /* StarbucksNearMe */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4942BFF726AF4443007216BF /* Build configuration list for PBXNativeTarget "StarbucksNearMe" */;
+			buildPhases = (
+				4942BFD426AF4440007216BF /* Sources */,
+				4942BFD526AF4440007216BF /* Frameworks */,
+				4942BFD626AF4440007216BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = StarbucksNearMe;
+			productName = StarbucksNearMe;
+			productReference = 4942BFD826AF4440007216BF /* StarbucksNearMe.app */;
+			productType = "com.apple.product-type.application";
+		};
+		4942BFED26AF4443007216BF /* StarbucksNearMeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4942BFFA26AF4443007216BF /* Build configuration list for PBXNativeTarget "StarbucksNearMeTests" */;
+			buildPhases = (
+				4942BFEA26AF4443007216BF /* Sources */,
+				4942BFEB26AF4443007216BF /* Frameworks */,
+				4942BFEC26AF4443007216BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4942BFF026AF4443007216BF /* PBXTargetDependency */,
+			);
+			name = StarbucksNearMeTests;
+			productName = StarbucksNearMeTests;
+			productReference = 4942BFEE26AF4443007216BF /* StarbucksNearMeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4942BFD026AF4440007216BF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1130;
+				LastUpgradeCheck = 1130;
+				TargetAttributes = {
+					4942BFD726AF4440007216BF = {
+						CreatedOnToolsVersion = 11.3.1;
+					};
+					4942BFED26AF4443007216BF = {
+						CreatedOnToolsVersion = 11.3.1;
+						TestTargetID = 4942BFD726AF4440007216BF;
+					};
+				};
+			};
+			buildConfigurationList = 4942BFD326AF4440007216BF /* Build configuration list for PBXProject "StarbucksNearMe" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4942BFCF26AF4440007216BF;
+			productRefGroup = 4942BFD926AF4440007216BF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4942BFD726AF4440007216BF /* StarbucksNearMe */,
+				4942BFED26AF4443007216BF /* StarbucksNearMeTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4942BFD626AF4440007216BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4942BFE826AF4442007216BF /* LaunchScreen.storyboard in Resources */,
+				4942BFE526AF4442007216BF /* Assets.xcassets in Resources */,
+				4942BFE326AF4440007216BF /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4942BFEC26AF4443007216BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49D9190626B1135300A28AD8 /* ValidSample.json in Resources */,
+				49D9190826B1137400A28AD8 /* InvalidSample.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4942BFD426AF4440007216BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49D918F826B0792F00A28AD8 /* LocationProvider.swift in Sources */,
+				49D918F426B070BD00A28AD8 /* LocationSearchService.swift in Sources */,
+				49D9190126B107A000A28AD8 /* CLLocationCoordinate2D+String.swift in Sources */,
+				49D918FA26B0794900A28AD8 /* DeviceLocationProvider.swift in Sources */,
+				49D918F126B06E8600A28AD8 /* AppCore.swift in Sources */,
+				49D918EE26B06A6700A28AD8 /* LocationDetailViewController.swift in Sources */,
+				4942BFE026AF4440007216BF /* HomeController.swift in Sources */,
+				49D918FC26B0840200A28AD8 /* Location.swift in Sources */,
+				4942BFDC26AF4440007216BF /* AppDelegate.swift in Sources */,
+				49D9190426B10A3700A28AD8 /* LocationList.swift in Sources */,
+				4942C00026AF5597007216BF /* LocationDataManager.swift in Sources */,
+				4942BFFE26AF49D0007216BF /* LocationListViewController.swift in Sources */,
+				4942C00426AF7320007216BF /* GoogleMapsService.swift in Sources */,
+				49D918F626B078E100A28AD8 /* StarbucksLocationDataManager.swift in Sources */,
+				4942BFDE26AF4440007216BF /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4942BFEA26AF4443007216BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4942BFF326AF4443007216BF /* StarbucksNearMeTests.swift in Sources */,
+				49D9194626B1940100A28AD8 /* MockLocationProvider.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4942BFF026AF4443007216BF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4942BFD726AF4440007216BF /* StarbucksNearMe */;
+			targetProxy = 4942BFEF26AF4443007216BF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		4942BFE126AF4440007216BF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4942BFE226AF4440007216BF /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4942BFE626AF4442007216BF /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4942BFE726AF4442007216BF /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4942BFF526AF4443007216BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4942BFF626AF4443007216BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4942BFF826AF4443007216BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FS3CN9L2HL;
+				INFOPLIST_FILE = StarbucksNearMe/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.exampleapp.StarbucksNearMe;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4942BFF926AF4443007216BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FS3CN9L2HL;
+				INFOPLIST_FILE = StarbucksNearMe/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.exampleapp.StarbucksNearMe;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4942BFFB26AF4443007216BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FS3CN9L2HL;
+				INFOPLIST_FILE = StarbucksNearMeTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.exampleapp.StarbucksNearMeTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StarbucksNearMe.app/StarbucksNearMe";
+			};
+			name = Debug;
+		};
+		4942BFFC26AF4443007216BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = FS3CN9L2HL;
+				INFOPLIST_FILE = StarbucksNearMeTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.exampleapp.StarbucksNearMeTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StarbucksNearMe.app/StarbucksNearMe";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4942BFD326AF4440007216BF /* Build configuration list for PBXProject "StarbucksNearMe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4942BFF526AF4443007216BF /* Debug */,
+				4942BFF626AF4443007216BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4942BFF726AF4443007216BF /* Build configuration list for PBXNativeTarget "StarbucksNearMe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4942BFF826AF4443007216BF /* Debug */,
+				4942BFF926AF4443007216BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4942BFFA26AF4443007216BF /* Build configuration list for PBXNativeTarget "StarbucksNearMeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4942BFFB26AF4443007216BF /* Debug */,
+				4942BFFC26AF4443007216BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4942BFD026AF4440007216BF /* Project object */;
+}

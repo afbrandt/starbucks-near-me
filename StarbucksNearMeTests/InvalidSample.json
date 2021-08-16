@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEAG6XnqoybmTLkoVE5ghyJXTguzBhuoX8bH53H9G-IialZz0CjBH6WtOikT-gCrFqoB2Uba0RKmbSJWYOiT9peT4K8G11jhc1XQ7k4A3u8_VBO_IESSunDGVMBUyfC_LgasbmmcaLNtg-Ac1ofZD0Zj7q0xybX4vbPRtIVgY0ITS9ljbeLZZwFVPvbaAMTdpNINDmfhrfd2RQWOSa5QzP3WNRQgSIPZKqjQ1XDSzPa2r1fm6H1iGU4TiOvmKO9FWOzsPIyBxylrB7vu136o6n7MIOUO6AygOPuKHDNFUZnvCaVV6sm3YQC5vS2JTwMFFNLdeP45Vpyj7Kz0X70F-ffOwEDSGv97u-REvCi0EZFpEpsMhrIUof3yBR7H3NeI5qpGLSmlOnVOyrnxuijEZj8mwOw2Jy55pha0o0YYUryi9BlXHK6FTVDsbarRPg",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4828092,
+               "lng" : -70.90314819999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.48413982989272,
+                  "lng" : -70.90219797010727
+               },
+               "southwest" : {
+                  "lat" : 42.48144017010728,
+                  "lng" : -70.90489762989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110410821011845689263\"\u003eDaria Nikolaeva\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA9oWwnvNkbw4F3-K0mr3KE4NZEZi_uVePwMVrAn0buNrL8XDoBG1nyfBjusqE7fP0f5fKuKad9J9G_85BRgtUPPY0Zk4hI9QvE8Q6M-jZOuGPl2xFEcXYFyDM-S79lqwkIryY_HmZoQC_KbPt_OOBkoR6Q_XMpvBjMeo-Rvy-lyHS6",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJIQ35Mq8U44kRkNnvVeROutQ",
+         "plus_code" : {
+            "compound_code" : "F3MW+4P Swampscott, Massachusetts",
+            "global_code" : "87JFF3MW+4P"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJIQ35Mq8U44kRkNnvVeROutQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 225,
+      }
+   ],
+   "status" : "OK"
+}

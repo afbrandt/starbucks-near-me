@@ -1,0 +1,1034 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEAG6XnqoybmTLkoVE5ghyJXTguzBhuoX8bH53H9G-IialZz0CjBH6WtOikT-gCrFqoB2Uba0RKmbSJWYOiT9peT4K8G11jhc1XQ7k4A3u8_VBO_IESSunDGVMBUyfC_LgasbmmcaLNtg-Ac1ofZD0Zj7q0xybX4vbPRtIVgY0ITS9ljbeLZZwFVPvbaAMTdpNINDmfhrfd2RQWOSa5QzP3WNRQgSIPZKqjQ1XDSzPa2r1fm6H1iGU4TiOvmKO9FWOzsPIyBxylrB7vu136o6n7MIOUO6AygOPuKHDNFUZnvCaVV6sm3YQC5vS2JTwMFFNLdeP45Vpyj7Kz0X70F-ffOwEDSGv97u-REvCi0EZFpEpsMhrIUof3yBR7H3NeI5qpGLSmlOnVOyrnxuijEZj8mwOw2Jy55pha0o0YYUryi9BlXHK6FTVDsbarRPg",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4828092,
+               "lng" : -70.90314819999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.48413982989272,
+                  "lng" : -70.90219797010727
+               },
+               "southwest" : {
+                  "lat" : 42.48144017010728,
+                  "lng" : -70.90489762989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110410821011845689263\"\u003eDaria Nikolaeva\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA9oWwnvNkbw4F3-K0mr3KE4NZEZi_uVePwMVrAn0buNrL8XDoBG1nyfBjusqE7fP0f5fKuKad9J9G_85BRgtUPPY0Zk4hI9QvE8Q6M-jZOuGPl2xFEcXYFyDM-S79lqwkIryY_HmZoQC_KbPt_OOBkoR6Q_XMpvBjMeo-Rvy-lyHS6",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJIQ35Mq8U44kRkNnvVeROutQ",
+         "plus_code" : {
+            "compound_code" : "F3MW+4P Swampscott, Massachusetts",
+            "global_code" : "87JFF3MW+4P"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJIQ35Mq8U44kRkNnvVeROutQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 225,
+         "vicinity" : "450 Paradise Rd, Swampscott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4847259,
+               "lng" : -70.9007142
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.48607572989273,
+                  "lng" : -70.89936437010728
+               },
+               "southwest" : {
+                  "lat" : 42.48337607010728,
+                  "lng" : -70.90206402989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "place_id" : "ChIJ2zFo198V44kRCHyCwapRQYA",
+         "plus_code" : {
+            "compound_code" : "F3MX+VP Swampscott, Massachusetts",
+            "global_code" : "87JFF3MX+VP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ2zFo198V44kRCHyCwapRQYA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 0,
+         "vicinity" : "1016 Paradise Rd, Swampscott"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4994999,
+               "lng" : -70.89428789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.50072667989271,
+                  "lng" : -70.89318097010728
+               },
+               "southwest" : {
+                  "lat" : 42.49802702010727,
+                  "lng" : -70.89588062989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105774505877644918669\"\u003eAndrew Muttiah\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBYQOg6WzwP-KqhbVWhYYTD92RWkFoBLF8ckYLIZNtIGecvHDAH5TkYGXjxAIP5emR_f_ycAEM7sp94-LAZVqoR9-OpARFjBYwlYKO4FOwMYLtmy7JdvOoymrf6h63uixbrDfqchU3x4EmHvuEHNoKK-nLAIbRPxl5J_ms7Rme0d0yO",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJI7VTTJcU44kR6NnXqBQ4__M",
+         "plus_code" : {
+            "compound_code" : "F4X4+Q7 Salem, Massachusetts",
+            "global_code" : "87JFF4X4+Q7"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJI7VTTJcU44kR6NnXqBQ4__M",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "71 Loring Ave, Salem"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.518984,
+               "lng" : -70.894913
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.52034907989272,
+                  "lng" : -70.89365142010728
+               },
+               "southwest" : {
+                  "lat" : 42.51764942010728,
+                  "lng" : -70.89635107989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108072799789447975573\"\u003eVeej Crowley\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAtEAgjVncqCV5A_d4Hmx8gWN3C5iCyrfk-6VyjHhT5Wziasibdj-W0sZQT5bsdz3oDEbovC2k5TtMDIfl45_ofMvzuozCPhmGySR3UiV99Q4D0HNsbgzfT_CbZRcza8JFwrJ3jYD_bbFNLivUJQDpU8uwGZk_vPxPMl933WKUt9iRw",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJtQrhq2QU44kRRD2FOA8ssM4",
+         "plus_code" : {
+            "compound_code" : "G494+H2 Salem, Massachusetts",
+            "global_code" : "87JFG494+H2"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJtQrhq2QU44kRRD2FOA8ssM4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 378,
+         "vicinity" : "211 Washington St, Salem"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.50263,
+               "lng" : -70.855935
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.50399862989273,
+                  "lng" : -70.85455292010727
+               },
+               "southwest" : {
+                  "lat" : 42.50129897010729,
+                  "lng" : -70.85725257989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100042297445323095518\"\u003eJake Berry\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBBaw_6fPO__EKJxEFtVz9MEnrSzEcnRFZt51O3Dm6Op4YiBaaLfFnrPVF_OVckU7V0FLcNP6VFd7I8xg5hHvf80w9mPUqQpLEnL4YjzbIvTCCVgjgihZbECrYaJHLWXu3ggNd5sSYLD188rz3KgpxVnWJvn17jxVV6i_tSuajJYruR",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJiTShfQEV44kRwj0J9cAptiE",
+         "plus_code" : {
+            "compound_code" : "G43V+3J Marblehead, Massachusetts",
+            "global_code" : "87JFG43V+3J"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJiTShfQEV44kRwj0J9cAptiE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 137,
+         "vicinity" : "89 Pleasant St, Marblehead"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.447493,
+               "lng" : -70.964975
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.44880127989272,
+                  "lng" : -70.96348497010726
+               },
+               "southwest" : {
+                  "lat" : 42.44610162010728,
+                  "lng" : -70.96618462989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107910477053803893214\"\u003eStephen Covill\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAjz0ojy3d7wANU7DD6e2x5gBcCUwTD0cVN_W53f6UmSBp87kMxYrXUq1r4JwMzhIrmT0WFe9cuBwa1LSj4oWLbfXUu0Q-ssTZI3N7MDcN5TuwNcmso-SeKkJ2Vw3jpBcwBS_u5T4bydv4chWBudfuS6KhbHODFnM3gRvTFxlWUDe1h",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJfZp686ht44kRNt9xJnk7QRc",
+         "plus_code" : {
+            "compound_code" : "C2WP+X2 Lynn, Massachusetts",
+            "global_code" : "87JFC2WP+X2"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJfZp686ht44kRNt9xJnk7QRc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 413,
+         "vicinity" : "821 Lynnway, Lynn"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.5402681,
+               "lng" : -70.9431847
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.54186067989272,
+                  "lng" : -70.94159182010728
+               },
+               "southwest" : {
+                  "lat" : 42.53916102010728,
+                  "lng" : -70.94429147989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 289,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103577115287281071407\"\u003eStarbucks\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA8r1R6ockPbchogeZdSlXXgmEqcmqHDE_63tknaIlFfxXrJA-pjf-85tY-e3wgxjNaMQmxW_2Msd21SqMGzUDVgkLELVhxzTEsboxMBkJy0nZeLf5mg4pLivL8ryOn14opQ3a0sjGMf91kD7WXws626tcfnAHmZwQwe5UkY1Cdrp5C",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJBbHbw8gT44kR92EdBnCefqE",
+         "plus_code" : {
+            "compound_code" : "G3R4+4P Peabody, Massachusetts",
+            "global_code" : "87JFG3R4+4P"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJBbHbw8gT44kR92EdBnCefqE",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 169,
+         "vicinity" : "210 Andover St Space W 133, Peabody"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.545953,
+               "lng" : -70.94667099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.54734992989273,
+                  "lng" : -70.94529207010727
+               },
+               "southwest" : {
+                  "lat" : 42.54465027010728,
+                  "lng" : -70.94799172989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101069350772768186886\"\u003eRolando Claudio\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAZik8lRwYTLYirtrsqbqsOXPfXklr4VmQxYeRtoS34a227tiGrmJpjBnYQ8T4laUTreYaz-23xrZVCCRlj9hAXeAzVkRZ1iv3tdMVesk00Rn3LfgH9WPnUFDxJyE118Szby8GvAh8ihwMuwm01fnJbvDrujjAP98Ieu_vYbgeIX_F4",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJUYiPOskT44kRlllKWDg4etY",
+         "plus_code" : {
+            "compound_code" : "G3W3+98 Peabody, Massachusetts",
+            "global_code" : "87JFG3W3+98"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJUYiPOskT44kRlllKWDg4etY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 423,
+         "vicinity" : "240 Andover St, Peabody"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.552547,
+               "lng" : -70.93612
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.55393147989272,
+                  "lng" : -70.93532450000001
+               },
+               "southwest" : {
+                  "lat" : 42.55123182010727,
+                  "lng" : -70.9385065
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103646736284519628018\"\u003eJoseph Pena\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBi9Y-VH2zOCpARBXZzNvde6eWEQPBXsaWTx5XDpAPoOncxlJ0OFl_ohrGhWTRx0TQiuKHGmdok2u1m5vMDcSu2s3RWHHXwGaUAXMph6T5tMqiSgNJCNbqApta3B8epW2HPn5m9hKJ-eG0IhoI35M_NDAqiFjJbt5q1g0wpYMEHI-Tu",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJUUMmcNwT44kRaE2NpTZfayk",
+         "plus_code" : {
+            "compound_code" : "H337+2H Danvers, Massachusetts",
+            "global_code" : "87JFH337+2H"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJUUMmcNwT44kRaE2NpTZfayk",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 73,
+         "vicinity" : "240 Independence Way, Danvers"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.55625999999999,
+               "lng" : -70.890356
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.55766747989271,
+                  "lng" : -70.88902122010727
+               },
+               "southwest" : {
+                  "lat" : 42.55496782010727,
+                  "lng" : -70.89172087989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115876184860392631509\"\u003eMichael Adams\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC3KZG5YZlJp3JeE2601l3Mbf30VuqbkbLupVrconUBzbLOPXgA3znKD6bJ8JrwaoTlcOC2aO7W0-B8scf8157qCk-5LAuBnASd7Sq2VT0F-JFDJ9tlPdZv5pNzVmgHWtqeGlSc246ELL_0e6AIT_go12nWe7aX1QJ3Xa_4W981pZqG",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJzXGAGaQW44kRSka4qd6WgBM",
+         "plus_code" : {
+            "compound_code" : "H445+GV Beverly, Massachusetts",
+            "global_code" : "87JFH445+GV"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJzXGAGaQW44kRSka4qd6WgBM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 231,
+         "vicinity" : "242 Elliott St, Beverly"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.48366000000001,
+               "lng" : -71.018964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.48498862989273,
+                  "lng" : -71.01752962010728
+               },
+               "southwest" : {
+                  "lat" : 42.48228897010728,
+                  "lng" : -71.02022927989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100247118916414961696\"\u003eDominic Cappuccino\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDbQKt4iy-_PcJJFpSOLVLSTtpvWphAILOxvsfdmmH_cIWGpYgil4pvnn1Xjg5MGVESqpiyR8PSxT-FKsNhSk3_1mJX2Qee6-58aywaFa3khxNKUv-Og-o9XyLhWOLZRItKN1RJv4hUOwEYOJ7eoZtPr6d71hRgIW-dmgWhAb-1xMtT",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6-CFxrty44kRvqmQEjVhr9g",
+         "plus_code" : {
+            "compound_code" : "FXMJ+FC Saugus, Massachusetts",
+            "global_code" : "87JCFXMJ+FC"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ6-CFxrty44kRvqmQEjVhr9g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 243,
+         "vicinity" : "366 B, Broadway, Saugus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.503651,
+               "lng" : -71.01530199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.50495227989272,
+                  "lng" : -71.01388667010728
+               },
+               "southwest" : {
+                  "lat" : 42.50225262010728,
+                  "lng" : -71.01658632989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112808838922021281821\"\u003eJohn Johanson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB4zm1dhogMkoUkCdcSG9k0qZLBPzUbxdYdu-DYQWTIFRNiQyVNRjm9043IaujXj8XodMcvWCwXBSiRkapSo6LkJGeA2AmYvzqPUwnH5jKAiXbmvCPHa4EdjidbUkeepVncykANfBi0AJwK4fvx915fTAf24WuAMr5ljQMEVcY-30D6",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJ9T2AJfIN44kRwM_aXL3epBo",
+         "plus_code" : {
+            "compound_code" : "GX3M+FV Lynnfield, Massachusetts",
+            "global_code" : "87JCGX3M+FV"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ9T2AJfIN44kRwM_aXL3epBo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 129,
+         "vicinity" : "26 Broadway, Lynnfield"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4819691,
+               "lng" : -71.02401259999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.48306232989273,
+                  "lng" : -71.02274037010729
+               },
+               "southwest" : {
+                  "lat" : 42.48036267010728,
+                  "lng" : -71.02544002989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105876776141952112787\"\u003eGeoffrey Green\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAoPdD6bbfJKfoo5tq1okhRYisMDNzNjJmGgusSSbkDiOjaZRKyydDa8DNbN9dR3Y3INuQAIrSNO5LQWEtZQ8eLkoinTJsxk5HQWzsqFho4HKkq8PwVmyZg2Z4es-ivYFeJLYufBvYwfgBiZ0e8yvH07Lfumu6K3GNG1NiELH-oc9Sa",
+               "width" : 1840
+            }
+         ],
+         "place_id" : "ChIJEQwwCb9y44kRpXIRyl8k5U0",
+         "plus_code" : {
+            "compound_code" : "FXJG+Q9 Saugus, Massachusetts",
+            "global_code" : "87JCFXJG+Q9"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJEQwwCb9y44kRpXIRyl8k5U0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "400 Lynn Fells Pkwy, Saugus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4748778,
+               "lng" : -71.0243972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.47629547989272,
+                  "lng" : -71.02326982010729
+               },
+               "southwest" : {
+                  "lat" : 42.47359582010727,
+                  "lng" : -71.02596947989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2161,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102942586325121912105\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECMmMHup7gGqoNy0tBpdlHEa7Ikno8-NozxA1xy0Nuiug3Evh2Vn6zDlLhNW9Axg7AGh1XvHa3Non8ybuRaOoPE_xaJ3ZenUFExE7cVZaEryrrgaJuZWtFLq2V9iyH1d2JTZtCMNVw_05xjaFWDEHsR0zE_5HRTRxRX-tPWaLlcFDG3",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJK2FP1yZz44kRgEuIGN8fXB0",
+         "plus_code" : {
+            "compound_code" : "FXFG+X6 Saugus, Massachusetts",
+            "global_code" : "87JCFXFG+X6"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJK2FP1yZz44kRgEuIGN8fXB0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 106,
+         "vicinity" : "855 Broadway, Saugus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.515171,
+               "lng" : -71.033653
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.51644892989273,
+                  "lng" : -71.03227367010727
+               },
+               "southwest" : {
+                  "lat" : 42.51374927010728,
+                  "lng" : -71.03497332989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103676005168374866014\"\u003eJeffrey Wiltshire\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECqcFdPPXYTcz2arw-g7TYclhVF_d0MgoseM_5958wFdRKP96RnutTGGico8qoRGKjn4t11bR7HR3zLs9b2K7D01fV5CDeuJRWjOnq0nqytvFoPJP6_3ezI3O3F2Stk3GmeCar6JufI_Kp5YFSpzNNPF4NrZrKuPpbHvKQTHYjSbXP4",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJwQ8RPTwN44kRdwV9CTTmcXw",
+         "plus_code" : {
+            "compound_code" : "GX88+3G Lynnfield, Massachusetts",
+            "global_code" : "87JCGX88+3G"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJwQ8RPTwN44kRdwV9CTTmcXw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 250,
+         "vicinity" : "420 Market St, Lynnfield"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.577053,
+               "lng" : -70.888473
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.57835632989272,
+                  "lng" : -70.88730562010727
+               },
+               "southwest" : {
+                  "lat" : 42.57565667010728,
+                  "lng" : -70.89000527989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJBRFbMkIX44kR6-N2GzVz7PI",
+         "plus_code" : {
+            "compound_code" : "H4G6+RJ Beverly, Massachusetts",
+            "global_code" : "87JFH4G6+RJ"
+         },
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "ChIJBRFbMkIX44kR6-N2GzVz7PI",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "71 Dodge St, Beverly"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.400826,
+               "lng" : -71.00188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.40162702989272,
+                  "lng" : -70.99951345000001
+               },
+               "southwest" : {
+                  "lat" : 42.39892737010728,
+                  "lng" : -71.00266885000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107518589935576900593\"\u003ekaissa oulhadj\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED1Kv6gl546ZDeCa-VTFhASgAvexvqDxEu9fe_f2YDp_rj8H0JUKVFCm19WEXCNUfW9cYMYqLomf6YKvFX5T4VqQxU7Jj4i3y2HH0kHk0DFVpJyinKfPKSLC3cnBak_vJ6jRfDJW_dE8bzOj4jKMOX2hgqGxKYPF-Bce6WXj8UVPTw-",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJg41fdh9u44kRkZXKzHHO6do",
+         "plus_code" : {
+            "compound_code" : "CX2X+86 Revere, Massachusetts",
+            "global_code" : "87JCCX2X+86"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJg41fdh9u44kRkZXKzHHO6do",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "36 Furlong Dr, Revere"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.585375,
+               "lng" : -70.88439199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.58671782989272,
+                  "lng" : -70.88312512010727
+               },
+               "southwest" : {
+                  "lat" : 42.58401817010727,
+                  "lng" : -70.88582477989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115515468840296697332\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAazW_Oi_0crpZPFFrGIVFNWX36JkzJ0svgkOguXyb9aIM54peJ5-2aI6LGXjl87X-CFzt0fh5LUB_umKGAiwaPywED4u5a_dEwVOjYd2382eIfTi53xWXcTSqH5kpfPVWBEORB-qECcScjMwqVu966k4dBS2QIRkPTwLnbA-MI24PZ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ_yJ_M94W44kRDdyBiK2gRYw",
+         "plus_code" : {
+            "compound_code" : "H4P8+46 Beverly, Massachusetts",
+            "global_code" : "87JFH4P8+46"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ_yJ_M94W44kRDdyBiK2gRYw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 230,
+         "vicinity" : "29 Enon St, Beverly"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.455493,
+               "lng" : -71.06488899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.45688337989272,
+                  "lng" : -71.06355067010728
+               },
+               "southwest" : {
+                  "lat" : 42.45418372010727,
+                  "lng" : -71.06625032989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111145338663743662679\"\u003eFanuel Muindi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECQGnW24FcT4d3s22ohwigWP3s-WB-9xCXXvdWch5K0PvS1HG3vwwL2FgPrcnI_8mChAu99vbeMmfCPMIeBKitNr84JnKfjyVTq6DhMqBLHIBXCkBakUsOObmPx5tIHHxXZ1ixYpUwo1iHf4RbqspvHxv7S__YsVX1wNepiGuMs8Lzb",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJBVpjqrtz44kRRuZGjmFSRMc",
+         "plus_code" : {
+            "compound_code" : "FW4P+52 Melrose, Massachusetts",
+            "global_code" : "87JCFW4P+52"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJBVpjqrtz44kRRuZGjmFSRMc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 286,
+         "vicinity" : "521 Main St, Melrose"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.392027,
+               "lng" : -71.013285
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.39333762989272,
+                  "lng" : -71.01184632010728
+               },
+               "southwest" : {
+                  "lat" : 42.39063797010728,
+                  "lng" : -71.01454597989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100227739703731827406\"\u003eDavid Vaquerano\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBWeLazFnTkJ5zxXpHu9dXV9zL36Rzimm8VHLPw6uPXxzNDsZi6V44AT0GHBcdNH8DODhmfyAtf7j2LMFJaBTT1LTtVrVgvBO1Tb1SrAKHYWOqbXtKw5PzTsprGnbql_JsQAYE8hv5SZqkKNBODB1AVxTn06R3Z7teuvgkG1DR1BWiI",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJjbmDv9px44kRvIC8ywb8VBw",
+         "plus_code" : {
+            "compound_code" : "9XRP+RM East Boston, Boston, MA",
+            "global_code" : "87JC9XRP+RM"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJjbmDv9px44kRvIC8ywb8VBw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 691,
+         "vicinity" : "430 William F McClellan Hwy, East Boston"
+      }
+   ],
+   "status" : "OK"
+}
